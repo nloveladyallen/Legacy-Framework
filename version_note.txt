@@ -1,0 +1,9 @@
+---------------------------
+
+Currently on: Legacy 2 Dev
+
+---------------------------
+
+In this release:
+
+SASS Files, Minified CSS, Formatted CSS of Legacy 2 Dev
